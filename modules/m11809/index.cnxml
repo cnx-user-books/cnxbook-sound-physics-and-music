@@ -1,0 +1,101 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Powers, Roots, and Equal Temperament</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11809</md:content-id>
+  <md:title>Powers, Roots, and Equal Temperament</md:title>
+  <md:abstract>A review of roots and powers for the music student who wishes to understand frequency relationships in equal temperament.</md:abstract>
+  <md:uuid>00775a45-099e-4f42-884e-8a58d1022278</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="3">Tuning Systems</link>
+      <link url="http://cnx.rice.edu/content/m11638/latest/" strength="2">Music and Math</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="2">Frequency</link>
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="2">Octaves</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+        <para id="p4a">
+You do not need to use powers and roots to discuss music unless you want to talk about frequency relationships. They are particularly useful when discussing equal temperament. (See <link document="m11639" target-id="s3">Tuning Systems</link>.)
+    </para>
+
+    <para id="p4b">
+Powers are simply a shorthand way to write "a certain number times itself so many times". 
+    </para>
+
+    <example id="id4327234">
+
+    <figure id="fig4a">
+      <media id="id4130681" alt=""><image src="../../media/powers.png" mime-type="image/png"/></media>
+    </figure>
+
+    </example>
+
+    <para id="p4c">
+Roots are the opposite of powers. They are a quick way to write the idea "the number that, multiplied by itself so many times, will give this number". 
+    </para>
+
+    <example id="id4604845">
+
+      <figure id="fig4b">
+        <media id="id4817920" alt=""><image src="../../media/roots.png" mime-type="image/png"/></media>
+      </figure>
+
+    </example>
+
+    <para id="p4d">
+Roots and powers are relevant to music because equal temperament divides the octave into twelve equal half steps. A note one octave higher than another note has a frequency that is two times higher. So if you divide the octave into twelve equal parts (half steps), the size of each half step is "the twelfth root of two". (Notice that it is <emphasis>not</emphasis> "2 divided by twelve" or "one twelfth". For more on this, see <link document="m11639" target-id="s3">Equal Temperament</link>.)
+    </para>
+
+    <example id="exam4b">
+
+    <figure id="fig4c">
+      <media id="id4230607" alt=""><image src="../../media/rootsandpowers.png" mime-type="image/png"/></media>
+    </figure>
+
+    </example>
+
+    <exercise id="exer4a">
+
+      <problem id="id9705214">
+        <list id="prob4a" list-type="enumerated">
+          <title>Using a scientific calculator, find</title>
+          <item>
+The frequency ratio of a half step (the twelfth root of 2), to the nearest ten thousandth (four decimal places).
+          </item>
+          <item>
+The frequency ratio of a perfect fourth (five half steps, or the twelfth root of 2 raised to the fifth power), to the nearest ten thousandth.
+          </item>
+          <item>
+The frequency ratio of a major third (four half steps), to the nearest ten  thousandth.
+          </item>
+          <item>
+The frequency ratio of an octave.
+          </item>
+        </list>
+      </problem>
+
+      <solution id="id4269410">
+        <list id="solu4a" list-type="enumerated">
+          <item>
+1.0595
+          </item>
+          <item>
+The twelfth root of 2, to the fifth power, is approximately 1.3348
+          </item>
+          <item>
+The twelfth root of 2, to the fourth power, is approximately 1.2599
+          </item>
+          <item>
+The twelfth root of 2, to the twelfth power, is 2
+          </item>
+        </list>
+      </solution>
+
+    </exercise></content>
+  
+</document>

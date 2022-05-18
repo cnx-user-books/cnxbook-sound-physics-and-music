@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sound and Ears</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12365</md:content-id>
+  <md:title>Sound and Ears</md:title>
+  <md:abstract>For middle school and up, an introduction to the human ear.</md:abstract>
+  <md:uuid>7f2e1030-6c3f-420f-9e72-e97f7b156c8e</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="2">Sound, Physics, and Music</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+  <section id="s0">
+    <title>Introduction</title>
+    <para id="p0a">
+The ear is the sense organ that picks up <link document="m11060">sound waves</link> from the surrounding air and turns them into nerve impulses that can be sent to the brain. The sound waves carry lots of information - language, music, and noises - all mixed up together. The task of the ear is to turn the signals in these waves of bouncing air molecules into electrical nerve signals, while keeping as much of the information in the signal as possible. (Then it's the brain's job to sort the signals and make sense out of them.) It's not easy to turn one kind of signal into another kind without losing information, but the ear is well designed for the task.
+<note id="id1171585874854">
+The human ear also has some other functions not related to hearing; those won't be discussed here.
+</note>
+    </para>
+
+    <para id="p1a">
+When something vibrates, the vibrations can travel as waves through solids, liquids, and gases. Even animals that have no ears can often feel these vibrations. But in order to understand language and hear music, the brain has to be given more information than just "there's a vibration". It needs to know the <link document="m11060" target-id="fig1b">frequency</link> and <link document="m11060" target-id="">amplitude</link> of all the waves that the ear is collecting. Interestingly, the ear sends this information to the brain very accurately by turning the sound waves in the air (vibrations in a gas) into vibrations in bones (solid), and then into waves in a fluid in the inner ear (a liquid), before they become (electrical) nerve signals. This might seem like a lot of unnecessary translation, but it allows the sense of hearing to be both sturdy and very sensitive, as explained below.
+    </para>
+
+  </section>
+
+  <section id="s1">
+    <title>Parts of the Ear</title>
+
+  <para id="p1b">
+The ear has three main sections. In the <term>outer ear</term>, the sound waves are still moving in air. In the <term>middle ear</term>, the sound waves are being conducted by three small bones. In the <term>inner ear</term>, the waves are moving through the fluid-filled <term>cochlea</term>. 
+  </para>
+
+    <figure id="fig1a">
+      <title>The Ear</title>
+      <media id="id1171585805630" alt=""><image src="../../media/ear.png" mime-type="image/png"/></media>
+      <caption>
+The parts of the ear that aren't involved in hearing have been left out.
+      </caption>
+    </figure>
+
+    <section id="s11">
+       <title>The Outer Ear</title>
+
+    <para id="p11a">
+The part of the human ear that you can see is simply a sound wave collector. Its shape helps to funnel the sound waves into the <term>auditory canal</term> (or <term>ear canal</term>) so that you get plenty of signals from even soft sounds, particularly ones from the direction that you are looking at. At the other end of the ear canal is the <term>eardrum</term> (or <term>tympanic membrane</term>). This is a membrane that is stretched tight, like the membranes on the tops of drums (including tympani). And thin, taut membranes are very good at vibrating, which  is why they can be found both on drums and inside ears. The eardrum picks up the vibrations in the ear canal and vibrates with them.
+    </para>
+
+    </section>
+
+    <section id="s12">
+       <title>The Middle Ear</title>
+
+    <para id="p12a">
+On the other side of the eardrum are the three tiny bones of the middle ear, the <term>hammer</term>, the <term>anvil</term>, and the <term>stirrup</term>. They are named for their shapes. Vibrations in the eardrum are passed to the hammer, which transmits them to the anvil, which makes the stirrup vibrate against the <term>oval window</term> of the cochlea. Bone is a very good conductor of vibrations, and the bones of the middle ear are specially arranged so that they can amplify (make louder) very quiet sounds. On the other hand, if things get too loud, tiny muscles in your middle ear can relax the eardrum a bit. A relaxed eardrum doesn't vibrate as much (think of a relaxed rubber band as opposed to a taut one), and this helps to keep things from getting damaged. 
+    </para>
+
+    </section>
+
+    <section id="s13">
+       <title>The Inner Ear</title>
+
+    <para id="p13a">
+The <term>cochlea</term> is a fluid-filled spiral (shaped something like a snail shell) about the size of a pea. Vibrations in the stirrup make waves in the fluid that travel down the spiral. In the fluid, in a long strip following the spiral, is the <term>organ of Corti</term>. This organ is covered with (about 20,000) tiny, incredibly sensitive hairs that are waving around inside the Cochlear fluid. Each of these hairs is a nerve ending that is picking up specific information about the vibrations in the fluid. At the end of the organ of Corti, the nerves are bundled together as the <term>auditory nerve</term>, which brings the information to the brain.
+    <note id="id1171585875514">
+The fragile, sensitive hairs on the organ of Corti would never stand up to the rough conditions in the ear canal. Even protected in the Coclear fluid, they don't last forever, especially the ones that can sense the highest-frequency vibrations. That is why most people begin to lose their sense of hearing as they grow older.
+    </note>
+    </para>
+
+    </section>
+
+  </section>
+
+  <section id="s3">
+    <title>Presenting this Module to Children</title>
+
+  <para id="p3a">
+You can present the information above in the form of a classroom lecture/presentation to elementary or middle school classes. Here are some suggestions for making the presentation more interactive and engaging.
+  </para>
+  <list id="l3a">
+    <item>
+Locate a poster or large diagram of the ear to use as a visual aid.
+    </item>
+    <item>
+If you don't have a poster, or if the printing on it is small, write the names of the parts of the ear on the board as you discuss them.
+    </item>
+    <item>
+Make copies of this <link resource="earworksheet.pdf">PDF file worksheet</link> for a class handout. Have the students label the parts of the ear during or after your presentation.
+    </item>
+    <item>
+When you discuss the outer ear, have the students make their own simple funnels out of paper and tape. Have each student hold the small end of the funnel up to an ear to see if it helps the ear collect sounds even better, especially in the direction that the funnel is pointing. A very simple version of this is to simply cup the hands behind the ears.
+    </item>
+    <item>
+You may want to have a classroom discussion on why it might be useful to have ears that "focus" on the sounds that are directly ahead of you. If the class is also studying animals, you can bring in pictures of various ears. Which are large and which small? Which are pointed straight ahead? How would that be useful? Which can swivel in different directions? How would that be useful? If they cannot come up with any ideas, give them a hint by asking which animals are hunters and which are hunted. You may also want to discuss animals that pick up vibrations with parts of their bodies that are very unlike human ears. You can even turn this into a class project by asking students to research and report on different animals (reptiles, elephants, and insects are particularly interesting).
+    </item>
+    <item>
+For the eardrum, you can simply use rubber bands to demonstrate that things vibrate more clearly when they are taut. Or if you want to be more adventurous (and messy), stretch a sheet of thick cellophane or thin rubber, leather, hide, or close-woven fabric across the opening of a bowl, can, or small tub, and sprinkle some rice over it. Try hitting your stretched membrane with a stick when it is relaxed, fairly taut, and very taut. When is it best at transmitting the vibrations and making the rice jump? Can you get it taut enough to act like an eardrum - so taut that even a loud sound nearby (say, hitting a different can) will make it vibrate and the rice jump? 
+    </item>
+    <item>
+When discussing vibrations in bone, let them talk while pressing their fingers gently on the back of their jawbones (below the ears). They should be able to feel the vibrations from their own speech in the bone almost as well as when they press against their throats, where the sounds are being produced. But they probably won't feel any vibrations from their noses, cheeks, outer ear, or hair. You can point out that: a lot of what you hear when you hear your own voice is coming to your ear through your jawbone. That's why your voice sounds so different to you when you hear a recording of it.
+    </item>
+    <item>
+When discussing the Cochlea and organ of Corti, ask if the students have seen underwater plants moving back and forth in the waves. If you really want to be hands-on, you can get a tank of water, hang some long thin ribbons or plant fronds in it, and let them make waves and watch the "hairs" move.
+    </item>
+  </list>
+  </section>
+
+  </content>
+  
+</document>

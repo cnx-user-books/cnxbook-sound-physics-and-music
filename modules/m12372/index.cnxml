@@ -1,0 +1,55 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sound Amplitude and Musical Dynamics</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12372</md:content-id>
+  <md:title>Sound Amplitude and Musical Dynamics</md:title>
+  <md:abstract>The amplitude of the sound waves are described in music as dynamic levels. Unlike scientific measures of amplitude, dynamics describe the perceived loudness of the music.</md:abstract>
+  <md:uuid>0c6153b5-b651-497d-b08d-356e7cb9e74b</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Frequency, Wavelength, and Pitch</link>
+      <link url="http://cnx.rice.edu/content/m12365/latest/" strength="1">Sound and Ears</link>
+      <link url="http://cnx.rice.edu/content/m11063/latest/" strength="1">Sound and Music</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+    <para id="p1a">
+When sound waves come as a very regular, pitched tone, there are two useful measurements you can make that tell you something about both the sound waves and about the tone they are making. One measurement is the distance between one wave and the next. This is the <link document="m11060" target-id="fig1b">wavelength</link>, which is also related to the <link document="m11060" target-id="fig1b">frequency</link> and the <link document="m10943">pitch</link> of the sound. The other measurement you can make is the size of each individual wave - its "height" or "intensity" rather than its length. This is the <term>amplitude</term> of the wave, and it determines the loudness of the sound.
+    </para>
+
+    <figure id="fig1a">
+      <title>Wavelength and Amplitude</title>
+      <media id="id1167006230753" alt=""><image src="../../media/wavelengthamplitude.png" mime-type="image/png"/></media>
+      <caption>The <term>wavelength</term> is the distance between the "crests" of two waves that are next to each other. The <term>amplitude</term> is how high the crests are.</caption>
+    </figure>
+
+  <para id="p1h">You may want to note that sound waves are not the type of waves shown in the figure above. (Please see <link document="m12378">Transverse and Longitudinal Waves</link> for more on this.) Rather than piling up high in the crests of the waves, as water on the surface of the ocean does, the air molecules in sound waves pile into the waves. So the bigger the amplitude of the wave, the more air molecules are in the "crest" of each wave, and the fewer air molecules are left in the "low" spots. The amplitude of the wave is still measuring the same thing - how much change there is during one wave - but this is more difficult to show clearly in a diagram with sound-type <link document="m12378">longitudinal Waves</link> waves.
+  </para>
+
+    <figure id="fig1b">
+      <media id="id1166997740967" alt=""><image src="../../media/amplitudes.png" mime-type="image/png"/></media>
+      <caption>It's easier to spot differences in amplitude at a glance when figures use <link document="m12378">transverse</link> waves.</caption>
+    </figure>
+
+		<para id="p1f">
+Engineers and scientists call how big a wave is its <term>amplitude</term>. They measure the amplitude of sound waves in <term>decibels</term>. Leaves rustling in the wind are about 10 decibels; a jet engine is about 120 decibels.
+		</para>
+
+		<para id="p1g">Musicians call the loudness of a note its <term>dynamic level</term>. <term>Forte</term> (pronounced "FOR-tay") is a dynamic level meaning "loud"; <term>piano</term> is a dynamic level meaning "soft". Dynamic levels don't correspond to a measured decibel level. For example, an orchestra playing "fortissimo" (which basically means "even louder than forte") sounds much louder than a string quartet playing "fortissimo". (See <link document="m11649">Dynamics</link> for more of the terms that musicians use to talk about loudness.)
+		</para>
+
+		<figure id="fig1c">
+			<title>Amplitude is Loudness</title>
+			<media id="id1166997751813" alt=""><image src="../../media/physics1c.png" mime-type="image/png"/></media>
+			<caption>The size of a wave (how much it is "piled up" at the high points) is its <term>amplitude</term>. For sound waves, the bigger the amplitude, the louder the sound. </caption>
+		</figure>
+  
+  </content>
+  
+</document>

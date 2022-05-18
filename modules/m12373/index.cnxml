@@ -1,0 +1,113 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Talking about Sound and Music</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12373</md:content-id>
+  <md:title>Talking about Sound and Music</md:title>
+  <md:abstract>For middle school and up, an introduction to some acoustics terms and how they relate to music.</md:abstract>
+  <md:uuid>6521bb7a-c72e-48af-8df0-9a1a909ff7e0</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Frequency, Wavelength, and Pitch</link>
+      <link url="http://cnx.rice.edu/content/m12372/latest/" strength="3">Amplitude and Dynamics</link>
+      <link url="http://cnx.rice.edu/content/m11063/latest/" strength="3">Sound and Music</link>
+      <link url="http://cnx.rice.edu/content/m12365/latest/" strength="3">Sound and Ears</link>
+      <link url="http://cnx.rice.edu/content/m12378/latest/" strength="3">Transverse and Longitudinal Waves</link>
+      <link url="http://cnx.rice.edu/content/m12413/latest/" strength="3">Standing Waves and Musical Instruments</link>
+      <link url="http://cnx.rice.edu/content/m12589/latest/" strength="3">Standing Waves and Wind Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="2">Tuning Systems</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="2">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m11809/latest/" strength="2">Powers, Roots, and Equal Temperament</link>
+      <link url="http://cnx.rice.edu/content/m11808/latest/" strength="2">Musical Intervals, Frequency and Ratio</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content> 
+
+		<para id="p1a">
+Music is the art of sound, so let's start by talking about sound. Sound is invisible waves moving through the air around us. In the same way that ocean waves are made of ocean water, sound waves are made of the air (or water or whatever) they are moving through. When something vibrates, it disturbs the air molecules around it. The disturbance moves through the air in waves - each vibration making its own wave in the air - spreading out from the thing that made the sound, just as water waves spread out from a stone that's been dropped into a pond. You can see a short animation of a noise being created <link resource="blah.swf">here</link>.
+                </para>
+
+	<para id="p2a">
+Surf rolling down a beach, leaves rustling in the wind, a book thudding on a desk, or a plate crashing on the floor all make sounds, but these sounds are not music. <term>Music</term> is sound that's organized by people on purpose, to dance to, to tell a story, to make other people feel a certain way, or just to sound pretty or be entertaining.
+		</para>
+
+		<para id="p2b">
+Music is organized on many different levels. Sounds can be arranged into <link document="m10945">notes</link>, <link document="m11646">rhythms</link>, <link document="m11645">textures</link> and <link document="m11647" target-id="s2">phrases</link>. <link document="m11647">Melodies</link> can be organized into anything from a simple song to a complex symphony. <link document="m10956" target-id="s1">Beats</link>, <link document="m10880" target-id="s1">measures</link>, <link document="m12402">cadences</link>, and <link document="m10842">form</link> all help to keep the music organized and understandable. But the most basic way that music is organized is by arranging the actual sound waves themselves so that the sounds are interesting and pleasant and go well together. 
+		</para>
+
+		<para id="p2c">
+A rhythmic, organized set of thuds and crashes is perfectly good music - think of your favorite drum solo - but many musical instruments are designed specifically to produce the regular, evenly spaced waves that we hear as particular pitches (musical notes). Crashes, thuds, and bangs are loud, short jumbles of lots of different wavelengths. The sound of surf, rustling leaves, or bubbles in a fish tank are also <term>white noise</term>, the term that scientists and engineers use for sounds that are mixtures of all the different wavelengths (just as white light is made of all the different wavelengths, or colors, of light). 
+		</para>
+
+      <figure id="fig1a"><media id="id1170841126279" alt=""><image src="../../media/NoisevsTone.png" mime-type="image/png"/></media>
+      </figure>
+
+
+                <para id="p1aa">
+A tone (the kind of sound you might call a musical note) is a specific kind of sound. The vibrations that cause it are very regular - all the same size and same distance apart. Musicians have terms that they use to describe tones. But this kind of (very regular) wave is useful for things other than music, so scientists and engineers also have terms that describe tonal sound waves. It can be very useful to know both the scientific and the musical terms and how they are related to each other.
+		</para>
+
+		<para id="p2d">
+For example, the closer together the waves of a tonal sound are, the higher the note sounds. Musicians talk about the <link document="m10943">pitch</link> of the sound, or name specific <link document="m10945">notes</link>, or talk about <link document="m11639">tuning</link>. Scientists and engineers, on the other hand, talk about the <link document="m11060" target-id="fig1b">frequency</link> and the <link document="m11060" target-id="fig1b">wavelength</link> of the sound. They are all essentially talking about the same thing. The scientific terms aren't necessary for the musician, but they can be very helpful in understanding and talking about what's happening when people make music.
+		</para>
+
+                <list id="l2a">
+                <title>The Concepts and Where to Find Them</title>
+  <item>
+<emphasis>Wavelength</emphasis> - An introduction to wavelength, frequency, and pitch is presented in <link document="m11060">Frequency, Wavelength, and Pitch</link>. You can find out more about the (Western) musical concept of pitch in <link document="m10943">Pitch: Sharp, Flat, and Natural Notes</link>. 
+  </item>
+  <item>
+<emphasis>Wave Size</emphasis> - The other measurement you can make of regular, tonal waves is the size of each individual wave - its "height" or "intensity"  rather than its wavelength. In sound waves, this is a measurement of the loudness of the sound. <link document="m12372">Amplitude</link> is a short discussion of wave size. Musicians have many terms to discuss what they call <link document="m11649">Dynamics</link>.
+  </item>
+  <item>
+<emphasis>Types of Waves</emphasis> - There are two basic types of waves. Most diagrams show <term>transverse</term> waves which "wave" up-and-down as they move left-and-right. These are easier to show in a diagram, and most of the familiar kinds of waves - light waves, radio waves, water waves - are transverse. But sound is made of <term>longitudinal</term> waves, which "wave" in the same direction that they move. These are harder to draw, and a little harder to imagine, than transverse waves, but you will find some helpful suggestions at <link document="m12378">Transverse and Longitudinal Waves</link>.
+  </item>
+  <item>
+<emphasis>Standing Waves</emphasis> - Most natural sounds are not tones. In order to produce the extremely regular vibrations that make tonal sound waves, musical instruments, se3e <link document="m12413">Standing Waves and Musical Instruments</link> and <link document="m12589">Standing Waves and Wind Instruments</link>. To find out more about how the waves created in an instrument are related to each other musically, see <link document="m11118">Harmonic Series</link> and <link document="m11639">Tuning Systems</link>.
+  </item>
+  <item>
+<emphasis>Sound and Ears</emphasis> - For a brief description of what happens when a sound reaches your ear, see <link document="m12365">Sound and Ears</link>
+  </item>
+  <item>
+<emphasis>The Math</emphasis> - Students struggling with the math needed for these ideas can look at <link document="m11808">Musical Intervals, Frequency and Ratio</link> and <link document="m11809">Powers, Roots, and Equal Temperament</link>.
+  </item>
+                </list>
+
+		<list id="list3a"><title>Suggestions for Presenting These Concepts in the Classroom</title>
+                        <item>
+Decide which of the concepts you will be presenting to your class, and prepare your lectures/presentations accordingly. You will probably need about one class period for each related set of concepts. <link document="m12365">Sound and Ears</link> is particularly geared towards younger students. The concepts in <link document="m11060">Frequency, Wavelength, and Pitch</link>, <link document="m12378">Transverse and Longitudinal Waves</link>, and <link document="m12372">Amplitude</link> can be presented to just about any age. <link document="m12413">Standing Waves and Musical Instruments</link>, <link document="m12589">Standing Waves and Wind Instruments</link>, <link document="m11118">Harmonic Series</link> and <link document="m11639">Tuning Systems</link> are probably best presented to older students (middle school and up). <link document="m11808">Musical Intervals, Frequency and Ratio</link> and <link document="m11809">Powers, Roots, and Equal Temperament</link> can be used either to remind older students of the math that they have learned and its relevance to music, or as extra information for younger students working on these math concepts.         
+                        </item>
+                        <item>
+Include suggested activities, worksheets, and demonstrations whenever possible, particularly for younger students.
+                        </item>
+			<item>
+Younger students will benefit from the activities and worksheets in <link document="m11063">Sound and Music</link>.
+			</item>
+                        <item>
+Worksheets that cover the basic concepts for older students are available here. Download and copy these PDF files as handouts for your class: <link resource="waves1.pdf">Sound Waves handout</link> and <link resource="waves3.pdf">Waves Worksheet</link>. There is also a <link resource="waves4.pdf">Worksheet Answer Key</link>. In case you have any trouble with the PDF files, these handouts are also included as figures at the end of this module, but they will look better if you print out the PDF files.
+                        </item>
+			<item>
+Use the exercises in the modules for class participation and discussion.
+			</item>
+		</list>
+
+		<figure id="fig3a">
+			<media id="id1170831907209" alt=""><image src="../../media/waves.png" mime-type="image/png"/></media>
+		</figure>
+
+                <figure id="fig3c">
+                        <media id="id1170831709544" alt=""><image src="../../media/wavesworksheet.png" mime-type="image/png"/></media>
+                </figure>
+
+                <figure id="fig3d">
+                        <media id="id1170844476012" alt=""><image src="../../media/wavesworksheetanswers.png" mime-type="image/png"/></media>
+                </figure>
+
+  
+  </content>
+  
+</document>

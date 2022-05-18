@@ -1,0 +1,259 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Musical Intervals, Frequency, and Ratio</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11808</md:content-id>
+  <md:title>Musical Intervals, Frequency, and Ratio</md:title>
+  <md:abstract>For high school and above, a discussion of the relationship of musical intervals and frequency ratios, with examples and exercises.</md:abstract>
+  <md:uuid>6e01edc4-e351-4306-a079-27319c6febc1</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11638/latest/" strength="3">Music and Math</link>
+      <link url="http://cnx.rice.edu/content/m10862/latest/" strength="2">Octaves</link>
+    </link-group>
+    <link-group type="prerequisite">
+      <link url="http://cnx.rice.edu/content/m10867/latest/" strength="3">Interval</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Frequency</link>
+      <link url="http://cnx.rice.edu/content/m11639/latest/" strength="3">Tuning Systems</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="3">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="2">Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+        <para id="p3a">
+In order to really understand tuning, the harmonic series, intervals, and harmonic relationships, it is very useful to understand a little bit about the physics of sound and to be comfortable discussing ratios, fractions, and decimals. This lesson is a short review of some basic math concepts for students who want to understand some of the math and physics principles that underlie music theory.
+    </para>
+    <para id="p3b">
+Ratios, fractions, and decimals are basically three different ways of saying the same thing. (So are percents, but they don't have anything to do with music.)
+    </para>
+    <example id="examp3a">
+       <list id="lexamp3a">
+         <title>If you have two apples and three oranges, that's five pieces of fruit altogether. You can say:</title>
+         <item>
+The ratio of apples to oranges is 2:3, or the ratio of oranges to apples is 3:2.
+         </item>
+         <item>
+The ratio of apples to total fruit is 2:5, or the ratio of oranges to total fruit is 3:5.
+         </item>
+         <item>
+2/5 of the fruit are apples, and 3/5 of the fruit are oranges.
+         </item>
+         <item>
+There are 2/3 as many apples as oranges, and 1 and 1/2 times (or 3/2) as many oranges as apples.
+         </item>
+         <item>
+There are 1.5 times as many oranges as apples, or there are only .67 times as many apples as oranges.
+         </item>
+         <item>
+0.4 (Four tenths) of the fruit is apples, and 0.6 (six tenths) of the fruit is oranges.
+         </item>
+       </list>
+       <para id="pexamp3a">
+<note id="id11293135">You should be able to see where the numbers for the ratios and fractions are coming from. If you don't understand where the decimal numbers are coming from, remember that a fraction can be understood as a quick way of writing a division problem. To get the decimal that equals a fraction, divide the numerator by the denominator.</note>
+       </para>
+    </example>
+
+    <example id="examp3b">
+
+      <list id="lexamp3b">
+         <title>An adult is walking with a child. For every step the adult takes, the child has to take two steps to keep up. This can be expressed as:</title>
+         <item>
+The ratio of adult to child steps is 1:2, or the ratio of child to adult steps is 2:1.
+         </item>
+         <item>
+The adult takes half as many (1/2) steps as the child, or the child takes twice as many (2/1) steps as the adult.
+         </item>
+         <item>
+The adult takes 0.5 as many steps as the child, or the child takes 2.0 times as many steps as the adult.
+         </item>
+      </list>
+
+    </example>
+
+    <exercise id="exer3a">
+      <problem id="id8598801">
+        <para id="prob3a">
+The factory sends shirts to the store in packages of 10. Each package has 3 small, 3 medium, and 4 large shirts. How many different ratios, fractions, and decimals can you write to describe this situation?
+        </para>
+      </problem>
+      <solution id="id11943700">
+        <list id="solut3a">
+          <item>
+Ratio of small to medium is 3:3. Like fractions, ratios can be reduced to lowest terms, so ratio of 1:1 is also correct.
+          </item>
+          <item>
+Ratio of small to large, or medium to large, is 3:4; ratio of large to either of the others is 4:3.
+          </item>
+          <item>
+Ratio of small or medium to total is 3:10; ratio of large to total is 4:10.
+          </item>
+          <item>
+3/10, or 0.3, of the shirts, are small; 3/10, or 0.3 of the shirts are medium, and 4/10, or 0.4 of the shirts, are large.
+          </item>
+          <item>
+There are 3/4 as many small or medium shirts as there are large shirts, and there are 4/3 as many large shirts as small or medium shirts.
+          </item>
+          <item>
+If you made more ratios, fractions, and decimals by combining various groups (say ratio of small and medium to large is 6:4, and so on), give yourself extra credit.
+          </item>
+        </list>
+      </solution>
+    </exercise>
+
+    <para id="p3c">
+What has all this got to do with music? Quite a bit, as a matter of fact. For example, every note in standard music notation is a fraction of a beat, and every beat is a fraction of a measure. You can explore the relationship between fractions and rhythm in <link document="m11807">Fractions, Multiples, Beats, and Measures</link>, <link document="m10945">Duration</link> and <link document="m10956">Time Signature</link>.
+    </para>
+    <para id="p3cc">
+The discussion here will focus on the relationship between ratio, frequency, and musical intervals. The <link document="m10867">interval</link> between two pitches depends on the ratio of their <link document="m11060" target-id="fig1b">frequencies</link>. There are simple, ideal ratios as expressed in a <link document="m11118">harmonic series</link>, and then there is the more complex reality of <link document="m11639" target-id="s2">equal temperament</link>, in which the frequency ratios are not so simple and are best written as roots or decimals. Here is one more exercise before we go on to discussions of music.
+    </para>
+
+    <exercise id="exer3b">
+      <problem id="id7350118">
+         <para id="prob3b">
+The kind of sound waves that music is made of are a lot like the adult and child walking along steadily in the example <link target-id="examp3b">above</link>. Low notes have long wavelengths, like the long stride of an adult. Their frequencies, like the frequency of the adult's steps, are low. High notes have shorter wavelengths, like the small stride of the child. Their frequencies, like the frequency of a child's steps, are higher. (See <link document="m11060">Sound, Physics and Music</link> for more on this.)
+         </para>
+         <list id="lprob3b" list-type="enumerated">
+           <title>You have three notes, with frequencies 220, 440, and 660. (These frequencies are in hertz, or waves per second, but that doesn't really matter much; the ratios will be the same no matter what units are used.)</title>
+           <item>
+Which note sounds highest, and which sounds lowest?
+           </item>
+           <item>
+Which has the longest wavelength, and which the shortest?
+           </item>
+           <item>
+What is the ratio of the frequencies? What is it in lowest terms?
+           </item>
+           <item>
+How many waves of the 660 frequency are there for every wave of the 220 frequency?
+           </item>
+           <item>
+Use a fraction to compare the number of waves in the 440 frequency to the number of waves in the 660 frequency.
+           </item>
+         </list>
+      </problem>
+      <solution id="id12949978">
+         <figure id="figsolut3b">
+            <media id="id10518544" alt=""><image src="../../media/3frequencies.png" mime-type="image/png"/></media>
+<caption>For every one wave of frequency 220, there are two of 440, and 3 of 660.</caption>
+         </figure>
+         <list id="lsolut3b" list-type="enumerated">
+            <item>
+660 sounds the highest; 220 lowest. (440 is a "tuning A" or A 440", by the way. 220 is the A one octave lower, and 660 is the E above A 440.)
+            </item>
+            <item>
+220 has the longest wavelength, and 660 the shortest.
+            </item>
+            <item>
+220:440:660 in lowest terms is 1:2:3
+            </item>
+            <item>
+3
+            </item>
+            <item>
+There are only 2/3 as many waves in the 440 frequency as in the 660 frequency.
+            </item>
+         </list>
+      </solution>
+    </exercise>
+
+    <para id="p3d">
+It is easy to spot simple frequency relationships, like 2:1, but what about more complicated ratios? Remember that you are saying <emphasis>the ratio of one frequency to another IS (equals) another ratio(or fraction or decimal)</emphasis>. This idea can be written as a simple mathematical expression. With enough information and a little bit of algebra, you can solve this equation for any number that you don't have. 
+     </para>
+     <para id="p3e">
+If you remember enough algebra, you'll notice that the units for frequency in this equation must be the same: if frequency #1 is in hertz, frequency #2 must be in hertz also. In all the examples and problems below, I am going to assume all frequencies are in hertz (waves per second), but you can use any frequency unit <emphasis>as long as they are both the same</emphasis>. Most musicians don't talk about frequency much, and when they do, they rarely mention units, but just say, for example, "A 440".
+    </para>
+
+    <figure id="fig3c">
+      <media id="id8919313" alt=""><image src="../../media/ratioequation.png" mime-type="image/png"/></media>
+      <caption>
+Remember that ratios, fractions and decimals are all just different ways of writing the same idea. If you write the ratio as a fraction it becomes easy to use in simple algebra equations. 
+      </caption>
+    </figure>
+
+    <example id="ex3c">
+       <para id="paraex3c">
+Say you would like to compare the frequencies of two sounds. Sound #1 is 630 and sound #2 is 840. If you use the expression given above and do the division on a calculator, the answer will be a decimal. If you simply reduce the fraction to lowest terms, or if you know the fraction that these decimals represent, you can see that you have a simple ratio of 3:4. Notice that if you switch the frequencies in the expression, the ratio also switches from 3:4 to 4:3. So it doesn't really matter which frequency you put on top; you will get the right answer as long as you keep track of which frequency is which.
+       </para>
+    
+       <figure id="figex3c">
+         <media id="id8192165" alt=""><image src="../../media/algebraex1.png" mime-type="image/png"/></media>
+       </figure>
+    </example>
+
+    <para id="eip-599">Sound waves in the real world of musical instruments often do have simple ratios like these. (See <link document="m12413">Standing Waves and Musical Instruments</link> for more about this.) In fact, a vibrating string or a tube of vibrating air will generate a whole series of waves, called a <link document="m11118">harmonic series</link>, that have fairly simple ratios. Musicians describe sounds in terms of <link document="m10943">pitch</link> rather than frequency and call the distance between two pitches (how far apart their frequencies are) the <link document="m10867">interval</link> between the pitches. The simple-ratio intervals between the harmonic-series notes are called <link document="m11639" target-id="s11">pure intervals</link>. (The specific names of the intervals, such as "perfect fifth" are based on music notation and traditions rather than physics. If you need to understand interval names, please see <link document="m10867">Interval</link>.)</para><example id="ex3d">
+
+       <figure id="figex3dd">
+          <media id="id7517543" alt=""><image src="../../media/harmonicsratio.png" mime-type="image/png"/></media>
+          <caption>
+You can use a <link document="m11118">harmonic series</link> to find frequency ratios for <link document="m11639" target-id="s11">pure intervals</link>. For example, harmonics 2 and 3 are a <link document="m10867" target-id="s21">perfect fifth</link> apart, so the frequency ratio of a perfect fifth is 2:3. Harmonics 4 and 5 are a major third apart, so the frequency ratio for major thirds is 4:5. Harmonics 4 and 1 are two octaves apart, so the frequency ratio of notes two octaves apart is 4:1.
+          </caption>
+       </figure>
+
+       <para id="paraex3d">Perhaps you would like to find the frequency of a note that is a perfect fifth higher or lower than another note. A quick look at the harmonic series here shows you that the ratio of frequencies of a perfect fifth is 3:2. <note id="eip-id1164890893665">It does not matter what the actual notes are! If the ratio of the frequencies is 3:2, the interval between the notes will be a perfect fifth.</note> The higher number in the ratio will be the higher-sounding note. So if you want the frequency of the note that is a perfect fifth higher than A 440, you use the ratio 3:2 (that is, the fraction 3/2). If you want the note that is a perfect fifth lower than A 440, you use the ratio 2:3 (the fraction 2/3).
+       </para>
+    
+       <figure id="figex3d">
+         <media id="id10534953" alt=""><image src="../../media/algebraex2.png" mime-type="image/png"/></media>
+          <caption>
+Remember that it is important to put the ratio numbers in the right place; if #2 is the higher frequency, then #2 must be the higher number in the ratio, too. If  you want #2 to be the lower frequency, then #2 should be the lower ratio number, too. Always check your answer to make sure it makes sense; a higher note should have a higher frequency.
+          </caption>
+       </figure>
+
+       <para id="paraex3da">
+In this example, I have done the algebra for you to show that you are really using the same equation as in example 1, just rearranged a bit. If you are uncomfortable using algebra, use the red expression if you know the interval but don't know one of the frequencies.
+       </para>
+    </example>
+
+    <para id="eip-852"><link document="m11639" target-id="s11">Pure intervals</link> that are found in the physical world (such as on strings or in brass tubes) are nice simple ratios like 2:3. But musicians in Western musical genres typically do not use pure intervals; instead they use a tuning system called <link document="m11639" target-id="s2">equal temperament</link>. (If you would like to know more about how and why this choice was made, please read <link document="m11639"> Tuning Systems</link>.) In equal temperament, the ratios for notes in <link document="m11639" target-id="s2">equal temperament</link> are based on the twelfth root of two. (For more discussion and practice with roots and equal temperament, please see <link document="m11809">Powers, Roots, and Equal Temperament</link>.) This evens out the intervals between the notes so that scales are more uniform, but it makes the math less simple.</para><example id="ex3e">
+       
+
+       <figure id="figexea">
+         <media id="id9873882" alt=""><image src="../../media/rootratios-7ae0.png" mime-type="image/png"/></media>
+       </figure>
+
+       <para id="paraex3eb">
+Say you would like to compare a pure major third from the harmonic series to a equal temperament major third.
+       </para>
+    
+       <figure id="figex3e">
+         <media id="id16897695" alt=""><image src="../../media/algebraex3.png" mime-type="image/png"/></media>
+       </figure>
+
+       <para id="paraex3ec">
+By comparing the ratios as decimal numbers, you can see that a pure major third is quite a bit smaller than an equal temperament major third.
+       </para>
+    </example>
+
+    <exercise id="exer3c">
+      <problem id="id13427860">
+         <para id="pexer3c">
+A note has frequency 220. Using the pure intervals of the harmonic series, what is the frequency of the note that is a perfect fourth higher? What is the frequency of the note that is a major third lower?
+         </para>
+      </problem>
+      <solution id="id7224969">
+         <figure id="figsolv3c">
+            <media id="id10025995" alt=""><image src="../../media/ratiosolv1.png" mime-type="image/png"/></media>
+         </figure>
+      </solution>
+    </exercise>
+
+    <exercise id="exer3d">
+      <problem id="id13410512">
+           <para id="pexer3d">
+The frequency of one note is 1333. The frequency of another note is 1121. What equal temperament interval will these two notes sound like? (Hint: compare the frequencies, and then compare your answer to the frequencies in the equal temperament figure <link target-id="figexea">above.</link>)
+           </para>
+      </problem>
+      <solution id="id16309389">
+           <figure id="figsolv3d">
+             <media id="id8922242" alt=""><image src="../../media/ratiosolv2.png" mime-type="image/png"/></media>
+           </figure>
+      </solution>
+    </exercise>
+  
+  </content>
+  
+</document>

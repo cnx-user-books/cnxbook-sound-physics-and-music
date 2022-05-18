@@ -1,0 +1,393 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sound and Music Activities</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11063</md:content-id>
+  <md:title>Sound and Music Activities</md:title>
+  <md:abstract>Lesson plans for investigative activities, appropriate for grades 3-6, that introduce the physics of sound and music, and that explore the ways musical instruments make sounds.</md:abstract>
+  <md:uuid>33c21290-30ff-46a1-a9bf-7713a376ca87</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="3">Frequency, Wavelength, and Pitch</link>
+      <link url="http://cnx.rice.edu/content/m12372/latest/" strength="3">Amplitude and Dynamics</link>
+      <link url="http://cnx.rice.edu/content/m12378/latest/" strength="3">Transverse and Longitudinal Waves</link>
+      <link url="http://cnx.rice.edu/content/m12365/latest/" strength="2">Sound and Ears</link>
+      <link url="http://cnx.rice.edu/content/m10943/latest/" strength="2">Pitch</link>
+      <link url="http://cnx.rice.edu/content/m11059/latest/" strength="1">Color</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    
+	<section id="s1">
+		<title>Introduction</title>
+
+		<para id="p1a">Different musical instruments produce sounds in very different ways, but all of them take advantage of some of the fundamental properties of sound - the physics of sound - to make a variety of interesting and pleasant sounds. You will find here a <link target-id="s3">Strings Activity</link>, <link target-id="s4">Wind Instrument Activity</link>, <link target-id="s5">Percussion Activity</link>, and <link target-id="s6">Resonance Activity</link>, as well as <link target-id="worksheet1">worksheets</link> appropriate for younger students. All of these explore some <link target-id="s2">basic concepts</link> of sound wave physics (<term>acoustics</term>) while demonstrating how various musical instruments produce sounds. 
+                </para>
+
+                
+
+		<list id="element-145" list-type="bulleted"><title>Goals and Standards</title><item>
+<emphasis>Goals</emphasis> - 
+The student will develop an understanding of the physical (scientific) causes of musical sounds, and be able to use appropriate scientific and/or musical terminology to discuss the variety of possible musical sounds.</item>
+<item>
+<emphasis>Music Standards Addressed</emphasis> - <link url="http://musiced.nafme.org/resources/national-standards-for-music-education/">National Standards for Music Education</link> standard 8 (understanding relationships between music, the other arts, and disciplines outside the arts)
+</item>
+<item>
+<emphasis>Other Subjects Addressed</emphasis> - In encouraging active exploration of the effects of physics on music and musical instruments, these activities also address <link url="http://www.nap.edu/readingroom/books/nses/overview.html#content">National Science Education Standards</link> in <emphasis>physical science</emphasis> and in <emphasis>science and technology</emphasis>.
+</item>
+<item>
+<emphasis>Grade Level</emphasis> - 3-8
+</item>
+<item>
+<emphasis>Student Prerequisites</emphasis> - If younger students are not ready to conduct their own lightly-supervised investigations, these activities should be done as full-classroom demonstrations.
+</item>
+<item>
+<emphasis>Teacher Expertise</emphasis> - Teacher expertise in music is not necessary to present this activity. The teacher should be familiar and comfortable with basic acoustics terms and concepts (see <link document="m13246">Acoustics for Music Theory</link>).
+</item><item>
+<emphasis>Time Requirements</emphasis> - Reserve one (approximately 45-minute) class period for each activity/discussion, and one class period to finish discussions, draw conclusions, do worksheets, and reinforce terms and concepts. If you have a longer period of time and a large area to work in, you may want to set up each experiment as a "work station" and have student groups move from one station to another.
+</item></list><para id="p1b">You can do any one or any combination of the activities. While doing them, introduce whichever of the terms and concepts you think will benefit your students. You can either use only the scientific terms, or only the musical terms, or both. To reinforce the concepts and terms with younger students, follow the activities with the worksheets in the <link target-id="s2">Terms and Concepts</link> section below. For older students, present the relevant information from <link document="m11060">Frequency, Wavelength, and Pitch</link>, <link document="m12372">Amplitude and Dynamics</link>, and <link document="m12378">Transverse and Longitudinal Waves</link>, and include the worksheet and handout from <link document="m12373">Talking About Sound and Music</link>.
+		</para>
+
+	</section>
+
+	<section id="s2">
+		<title>Terms and Concepts</title>
+
+           <para id="p2a">During or after your activities, introduce the following terms and concepts to the students. Worksheets to help you do this with younger students are available here as PDF files: <link resource="soundhandout.pdf">Terms Worksheet</link>, <link resource="soundhandout2.pdf">Matching Worksheet</link>, <link resource="soundhandout3.pdf">Answer sheet</link>. (Or you may copy the <link target-id="worksheet1">figures</link>.) With younger students, you may also want to study <link document="m12365" strength="2">Sound and Ears</link>. For older students, use the worksheet and handout in <link document="m12373">Talking About Sound and Music</link>. For more detailed information on this subject, you may also see <link document="m12373" strength="3">Talking about Sound and Music</link>, <link document="m11060" strength="3">Frequency, Wavelength, and Pitch</link>, <link document="m12372" strength="3">Amplitude and Dynamics</link>, <link document="m12378" strength="3">Transverse and Longitudinal Waves</link>, <link document="m12413" strength="3">Standing Waves and Musical Instruments</link>, <link document="m12589">Standing Waves and Wind Instruments</link>, or <link document="m13246">Acoustics for Music Theory</link>. Use the discussion questions during and after the activities to help the students reach conclusions about their investigations.
+           </para>
+
+		<list id="list2a"><title>Terms and Concepts</title>
+			<item>
+<emphasis>Sound Waves</emphasis> - When something vibrates, it makes a sound. The vibrations travel out in all directions from the "something" in the same way that ripples travel out from a pebble that has been dropped in water. But instead of being waves of water, these are waves of vibrations of air: <term>sound waves</term>. Because it is the air itself that is vibrating, sound waves, unlike water waves, are invisible.
+			</item>
+			<item>
+<emphasis>Frequency</emphasis> - or <emphasis>Pitch</emphasis> - Think of water waves again. They can be close together or far apart. If they are close together, there are more of them; they are more frequent. <term>Frequency</term> is the term that scientists and engineers use to describe how many pulses of a sound wave arrive at your ear in one second. Musicians use the term <term>pitch</term>. A sound with a higher frequency (more waves) has a higher pitch, and sounds higher.
+			</item>
+			<item>
+<emphasis>Amplitude</emphasis> - or <emphasis>Dynamic Level</emphasis> - Water waves can also be great, big, tall waves, or small ripples. The size of a wave is called its <term>amplitude</term>. In sound waves, the bigger the wave, the louder the sound is. Musicians call the loudness of a sound its <term>dynamic level</term>.
+			</item>
+		</list>
+
+		<figure id="worksheet1">
+			<media id="id18410657" alt=""><image src="../../media/sound1ac.png" mime-type="image/png"/></media>
+		</figure>
+
+		<figure id="worksheet2">
+			<media id="id20847156" alt=""><image src="../../media/sound1bc.png" mime-type="image/png"/></media>
+		</figure>
+
+                <figure id="answersheet">
+                        <media id="id20837199" alt=""><image src="../../media/sound1cc.png" mime-type="image/png"/></media>
+                </figure>
+
+	</section>
+
+	<section id="s3">
+		<title>Strings Activity</title>
+
+		<list id="element-732" list-type="bulleted"><title>Objectives and Assessment</title>
+<item>
+<emphasis>Objectives</emphasis> - The student will construct a simplified version of a stringed instrument, using rubber bands as strings, and will use the instrument to explore the effects of various string characteristics on frequency and amplitude.
+</item>
+<item>
+<emphasis>Evaluation</emphasis> - Assess student learning using worksheets or answers to discussion questions.
+</item></list><list id="list3a"><title>Materials and Preparation</title>
+<item>Most students will be able to do this experiment alone or in small groups. If you do not want students working with thumbtacks, plan to use boxes or pans as instrument bodies.
+</item>
+			<item>
+You will need lots of rubber bands, as many different lengths and thicknesses and tightnesses as you can find. If you are using boxes, the rubber bands must be long enough to stretch around a box.
+			</item>
+			<item>
+You will also need either small, sturdy cardboard or plastic boxes or containers, with or without lids, OR pieces (about 8" X 10" or so) of thick, flat cardboard, OR square or rectangular baking pans, one for each student or group.
+			</item>
+			<item>
+If you are using flat cardboard, you will also need thumbtacks or push pins.
+			</item>
+			<item>
+If you are using a lidded box, pencils, pens, or other objects approximately the size and shape of a pencil (a couple for each instrument) will be useful.
+			</item>
+			<item>
+You may want scissors that are strong enough to cut the cardboard or plastic.
+                        </item>
+		<item>
+If a stringed-instrument player is available for a show-and-tell, you may want to include this after the activity, to demonstrate and reinforce some of the main points. Any stringed instrument (guitar, violin, harp, etc.) will do.
+</item>
+<item>
+For older or more independent students, you may want to make copies of the <link resource="StringQuestions.pdf">discussion questions.</link>
+</item></list>
+
+                <figure id="fig3a">
+                        <media id="id20896828" alt=""><image src="../../media/sound2as.png" mime-type="image/png"/></media>
+                </figure>
+
+		<list id="list3b" list-type="enumerated"><title>Procedure</title>
+			<item>
+Each student or group should choose a variety of rubber bands (3-6, depending on the size of their "instruments") to start with.
+			</item>
+			<item>
+If you are using flat cardboard, stretch each rubber band between two thumbtacks so that it is tight enough to give a particular pitch. 
+			</item>
+			<item>
+If using a box or baking pan, stretch the rubber bands around the box or pan.
+			</item>
+			<item>
+Have the students pluck each rubber band separately and listen carefully to the "twang". They are listening for which ones sound higher and which sound lower.
+			</item>
+			<item>
+To try many different thicknesses and tightnesses, students can trade rubber bands with each other or trade off from the central pile if there are enough.
+			</item>
+			<item>
+Students with the thumbtack instruments can vary length and tightness by changing the distance between the thumbtacks.
+			</item>
+			<item>
+Students with box or pan instruments can vary tightness by pulling on the rubber band at the side of the box while plucking it at the top. Students with lidded box instruments can vary length by slipping a pencil under each end of the rubber bands on the top of the box and then varying the distance between the pencils, or even holding the rubber band down tightly with a finger between the pencils, in the same way as a real string player.
+			</item>
+			<item>
+Students with box instruments can also see if the body of the instrument makes any difference to the sound. Can they play the instrument with the lid off and with it on? Does cutting a hole in the lid change the sound? Does it make it easier to play? Does adding the pencils change the sound or make it easier to play? Do different boxes make a different sound with the same rubber bands? Do cardboard boxes sound different from plastic ones?
+			</item>
+		<item>
+Ask younger students the discussion questions while they are experimenting. Allow them to check and answer immediately. Summarize the answers for them on the board, or remind them and let them write them down when they are done experimenting. Give older students a list of the discussion questions before they begin.
+</item></list>
+
+		<list id="list3c"><title>Discussion Questions</title>
+			<item>
+Do thicker rubber band "strings" sound higher or lower than thinner ones? (Answer: thicker should sound lower.)
+			</item>
+			<item>
+Do tighter strings sound higher or lower than looser ones? (Tighter should sound higher.)
+			</item>
+			<item>
+Do shorter strings sound higher or lower than longer ones? (Shorter should sound higher.)
+			</item>
+			<item>
+Do there seem to be differences in how loud and soft or how dull or clear a string sounds? If so, what seems to cause those differences?
+			</item>
+<item>What determines whether the sound of a string is loud or soft?
+</item>
+<item>
+What happens to the sound if they pluck with one finger while touching the string lightly with another finger? (No "twang"; the touch stops the vibrations.) If their instrument design allows it, what happens when they hold the string tightly down against the instrument and then pluck it? (The shorter vibrating length should give a higher pitch.)
+</item>
+			<item>
+After their experiments, can they explain what happens when a player holds a string down with a finger? What if the same string is held down in a different spot?
+			</item>
+<item>
+Based on their observations, do the students feel they could tell which strings of an instrument are the low strings just by looking at them closely? (For an extra activity, arrange for them to try this with a real instrument.)
+			</item>
+			<item>
+Can the students come up with possible reasons why the thickness, length, and tightness of a string affect its frequency/pitch in the way that they do? (For example, why does a shorter string have a higher frequency/pitch?) (It may help on length to remind them that the longer the waves are, the less frequent they will be.)
+			</item>
+                  </list>
+	</section>
+
+	<section id="s4">
+		<title>Wind Instruments Activity</title>
+
+		<list id="element-430" list-type="bulleted"><title>Objectives and Assessment</title>
+<item>
+<emphasis>Objectives</emphasis> - The student will explore the effects of air column size (and shape) on the frequency and amplitude of standing waves in the air column, using empty glass bottles, and water if necessary to vary air column size.
+</item>
+<item>
+<emphasis>Evaluation</emphasis> - Assess student learning using worksheets or answers to discussion questions.
+</item></list><list id="list4a"><title>Materials and Preparation</title>
+<item>
+If you do not want your students working with glass jugs and water, plan to do this as a demonstration.
+</item>
+			<item>
+You will need several narrow-necked bottles, all the same size and shape OR several narrow-necked bottles of varying sizes and shapes. Bottles should be empty and clean. Make sure before the class begins that your bottles give a clear, reasonably loud sound when you blow across the top of them. If necessary, practice getting a sound. Large glass jugs with an inner lip diameter of approximately one inch work well.
+			</item>
+			<item>
+If using bottles of the same size, you will also need water to fill them to varying depths. If you are using this approach, food coloring is very useful to clearly show the depth of the water.
+			</item>
+			<item>
+If plastic recorders are available to your students, or a player of a <link document="m11897" target-id="s12">woodwind</link> or <link document="m11897" target-id="s13">brass</link> instrument is available for a show-and-tell, they can be used for an extra demonstration.
+			</item>
+		<item>
+For older or more independent students, you may want to make copies of the <link resource="WindQuestions.pdf">discussion questions.</link>
+</item></list>
+
+                <figure id="fig4a">
+                        <media id="id20891776" alt=""><image src="../../media/sound3as.png" mime-type="image/png"/></media>
+                </figure>
+
+		<list id="list4b" list-type="enumerated"><title>Procedure</title>
+			<item>
+If using same-size bottles and water, fill each bottle to a different depth (for example, an inch in one bottle, two inches in another, three inches in a third and so on). If you have food coloring, add a few drops to the water in each bottle so it is easy to see the depths.
+			</item>
+			<item>
+Make the air in a bottle vibrate by blowing steadily across the top of the bottle.
+			</item>
+			<item>
+"Play" each bottle in turn, and arrange them in order from the highest sound to the lowest.
+			</item>
+                        <item>
+If you have the time and inclination, you can even try to "tune" the bottles by adding or pouring out water. 
+			</item>
+			<item>
+If recorders or a wind instrument are available, demonstrate how covering and uncovering the holes on the instrument changes the pitch. Explain that the main vibration in the instrument is happening in the air inside the instrument (just like the air in the bottles), in between the mouthpiece and the first hole that the air can escape from.. 
+			</item>
+		</list>
+	
+		<list id="list4c"><title>Discussion Questions</title>
+			<item>
+If using bottles of different shapes and sizes, how does the size of the bottle affect the pitch/frequency? Does the shape of the bottle seem to affect it?
+			</item>
+			<item>
+Does the size and shape of the bottle seem to affect anything else, like the loudness of the sound or the tone quality?
+			</item>
+			<item>
+What do you think explains these effects?
+			</item>
+			<item>
+If using water in bottles, how does the amount of water affect the pitch/frequency? Why? (You may need to remind the students that it is the air in the bottle that is vibrating; more water means a smaller space for the air; smaller space means shorter waves and higher frequency/pitch).
+			</item>
+<item>
+How is a bottle "instrument" the same as a <link document="m12364">wind</link> instrument, and how is it different?
+</item>
+			<item>
+If demonstrating with instruments: How does opening and closing the holes of the instruments change the pitch? Why? (Answer: the shorter the distance between the mouthpiece and the first open hole, the shorter the waves and the higher the pitch/frequency. Opening and closing other holes further down the instrument from the first open hole may have no discernible effect - they are not changing the length of the vibrating column of air - or if they are affecting the vibrating air a little, they may change the sound enough to make it more or less in tune.) If a brass instrument is used, what is the effect of opening a valve or extending the slide? (Opening valves actually lengthens the instrument, by opening up extra tubing, lowering the pitch.)
+			</item>
+		</list>
+
+	</section>
+
+	<section id="s5">
+		<title>Percussion Activity</title>
+
+		<list id="element-681" list-type="bulleted"><title>Objectives and Assessment</title>
+<item>
+<emphasis>Objectives</emphasis> - The student will assist in constructing a "found objects" chime, and will use the instrument to explore the effects of various object characteristics on frequency and amplitude.
+</item>
+<item>
+<emphasis>Evaluation</emphasis> - Assess student learning using worksheets or answers to discussion questions.
+</item></list><list id="list5a"><title>Materials and Preparation</title>
+			<item>
+Each working group will need a dowel, rod, or small beam, around 4-6 feet long, held at both ends about five feet off the ground.
+			</item>
+			<item>
+Each group will need a variety of objects of different sizes and materials. Forks, spoons, spatulas, rulers, wind chimes, lengths of chain, lengths of pipe or bamboo or tubing, are all easy to line up below the dowel because they are long and thin. Objects that have holes or handles (slotted spoons, pan lids) making it easier to keep them tied on, are also a good idea. Objects that are metal, hardwood, hard plastic, hollow, and/or made in a single piece are most likely to make easy-to-hear, interesting sounds.
+			</item>
+<item>
+It may be easier to answer some of the discussion question if some of the objects are similar objects in a variety of sizes, for example small medium and large metal spoons.
+</item>
+			<item>
+You will need enough string to hang the objects from the dowels, and may need tape to keep the objects on the string. Keep in mind, though, that tape will probably dampen the vibrations of the object so that it won't "ring" as long.
+			</item>
+                        <item>
+You will need something the students can use to strike the objects; a wooden spoon, short stick, pen or pencil, or ruler. Or they can experiment with using different objects as "drumsticks". Which do the students prefer and why?
+                        </item>
+		<item>
+For older or more independent students, you may want to make copies of the <link resource="PercussionQuestions.pdf">discussion questions.</link>
+</item></list>
+
+                <figure id="fig5a">
+                        <media id="id22477820" alt=""><image src="../../media/sound4as.png" mime-type="image/png"/></media>
+                </figure>
+
+		<list id="list5b" list-type="enumerated"><title>Procedure</title>
+			<item>
+Have the students hang the objects securely from the dowel.
+			</item>
+			<item>
+The students should then strike the objects one at a time, listening carefully to the sound each object typically makes.
+			</item>
+		</list>
+
+		<list id="list5c"><title>Discussion Questions</title>
+			<item>
+Does the size of the object seem to affect its pitch/frequency? Its loudness?
+			</item>
+			<item>
+Does the shape of the object seem to affect its pitch/frequency? Its loudness?
+			</item>
+			<item>
+Does the object's material seem to affect its pitch/frequency? Its loudness?
+			</item>
+			<item>
+Can you tell what effects the thickness of an object has on its sound?
+			</item>
+			<item>
+What seems to affect how long a sound lasts? 
+			</item>
+			<item>
+What objects make the sounds that you like best? Which do you think would make good percussion instruments? Why?
+			</item>
+			<item>
+Which of these effects do you think you can explain in terms of waves and the vibrations the objects must be making?
+			</item>
+		</list>
+
+	</section>
+
+	<section id="s6">
+		<title>Instrument Body Activities</title>
+
+		<list id="element-358" list-type="bulleted"><title>Objectives and Assessment</title>
+<item>
+<emphasis>Objectives</emphasis> - The student will construct a simple megaphone, and will use the megaphone and a music box in several simple investigations to explore the effects that the body of an instrument has on its sound.
+</item>
+<item>
+<emphasis>Evaluation</emphasis> - Assess student learning using worksheets or answers to discussion questions.
+</item></list><list id="list6a"><title>Materials and Preparation</title>
+<item>Decide whether each step of this investigation will be a teacher demonstration or an individual or small-group activity.
+</item>
+			<item>
+You will need a music box.
+			</item>
+			<item>
+You will need several large, flat surfaces of different types of materials - different types of wood and metal as well as plastic and softer surfaces will be particularly instructive. A box or drawer made of hardwood is optional.
+			</item>
+			<item>
+You will also need large sheets of paper, construction paper, newspaper, soft, pliable plastic or foam or poster board, and some tape, OR a megaphone. If you have a variety of megaphone materials, have different students use different materials to see if material choice affects the sound.
+			</item>
+		<item>
+For older or more independent students, you may want to make copies of the <link resource="InstrumentQuestions.pdf">discussion questions.</link>
+</item></list>
+
+		<list id="list6b" list-type="enumerated">
+			<title>Procedure</title>
+			<item>
+Wind the music box and let everyone listen to it while holding it in your hand.
+			</item>
+			<item>
+Place the box on different surfaces and listen to the difference it makes in the sound. Continue to wind it as necessary to hear a long example of each surface. If you can, place the music box inside a wooden box or drawer.
+			</item>
+			<item>
+If you do not have a real megaphone to demonstrate, let the students make their own megaphones by rolling the paper into a cone shape, open at both ends. Tape it if necessary to hold the shape.
+			</item>
+			<item>
+Let them talk or sing into their megaphones and otherwise experiment with how the megaphone changes sounds. Experiment with different megaphone sizes and shapes (narrow or widely flaring).
+                        </item>
+
+		</list>
+
+		<list id="list6c"><title>Discussion Questions</title>
+			<item>
+What effect does each surface have on the sound from the music box? What is causing these effects? (Answer: some surfaces will vibrate with the music box if they are touching. See <link document="m13537">Resonance</link>.)
+			</item>
+			<item>
+Why do instruments have bodies; why aren't they just a bunch of strings or a reed or a membrane to beat on?
+			</item>
+			<item>
+Why would an instrument maker choose to make an instrument body out of wood (like a violin or piano)? Why might metal be chosen (as in brass and many percussion instruments)? Of the other materials you experimented with, would you make instruments out of them? What kind of instrument with each material? Why?
+			</item>
+			<item>
+How does a megaphone shape change a sound? Does it matter whether the megaphone is narrow or flaring?
+			</item>
+			<item>
+How do you think the megaphones would have changed if they had been made of wood or of metal?
+			</item>
+			<item>
+Would a violin sound louder if you were sitting right in front of it or next to it? What about a trumpet? What's the difference?
+			</item>
+			<item>
+Based on your observations, what do you think the shape of the instrument does to the sound of a tuba, trumpet, trombone, clarinet, or saxophone? What about flutes and bassoons (which do not flare)?
+			</item>
+		</list>
+
+	</section></content>
+  
+</document>

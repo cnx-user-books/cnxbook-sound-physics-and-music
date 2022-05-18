@@ -1,0 +1,99 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Transverse and Longitudinal Waves</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12378</md:content-id>
+  <md:title>Transverse and Longitudinal Waves</md:title>
+  <md:abstract>For middle school and up, a short explanation of the difference between transverse and longitudinal waves, with some suggestions for classroom presentation.</md:abstract>
+  <md:uuid>bfd4df43-a654-41ab-9d16-ebef747c53ab</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m12373/latest/" strength="3">Talking about Sound</link>
+      <link url="http://cnx.rice.edu/content/m12365/latest/" strength="2">Sound and Ears</link>
+      <link url="http://cnx.rice.edu/content/m12372/latest/" strength="2">Amplitude and Dynamics</link>
+      <link url="http://cnx.rice.edu/content/m11060/latest/" strength="1">Frequency, Wavelength, and Pitch</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>  
+
+		<para id="p1b">
+Waves are disturbances; they are changes in something - the surface of the ocean, the air, electromagnetic fields. Normally, these changes are travelling (except for <link document="m">Standing Waves</link>); the disturbance is moving away from whatever created it. 
+		</para>
+  <para id="p1c">
+Most kinds of waves are <term>transverse</term> waves. In a transverse wave, as the wave is moving in one direction, it is creating a disturbance in a different direction. The most familiar example of this is waves on the surface of water. As the wave travels in one direction - say south - it is creating an up-and-down (not north-and-south) motion on the water's surface. This kind of wave is very easy to draw; a line going from left-to-right has up-and-down wiggles. So most diagrams of waves - even of sound waves - are pictures of transverse waves.
+  </para>
+
+		<para id="p1ba">
+But sound waves are not transverse. Sound waves are <term>longitudinal waves</term>. If sound waves are moving south, the disturbance that they are creating is making the air molecules vibrate north-and-south (not east-and-west, or up-and-down. This is very difficult to show clearly in a diagram, so most diagrams, even diagrams of sound waves, show transverse waves. <note id="id5991641">It's particularly hard to show <link document="m12372" target-id="fig1b">amplitude</link> in longitudinal waves. Sound waves definitely have amplitude; the louder the sound, the greater the tendency of the air molecules to be in the "high" points of the waves, rather than in between the waves. But it's easier show exactly how intense or dense a particular wave is using transverse waves.</note>
+  </para>
+  <para id="p1d">Longitudinal waves may also be a little difficult to imagine, because there aren't any examples that we can see in everyday life. A mathematical description might be that in longitudinal waves, the waves (the disturbances) are along the same axis as the direction of motion of the wave; transverse waves are at right angles to the direction of motion of the wave. If this doesn't help, try imagining yourself as one of the particles that the wave is disturbing (a water drop on the surface of the ocean, or an air molecule). As it comes from behind you, a transverse waves lifts you up and then drops you down; a longitudinal wave coming from behind pushes you forward and then pulls you back. You can view animations of longitudinal and transverse waves <link resource="Waves.swf">here</link>, <link resource="Pulses.swf">single particles being disturbed by a transverse wave or by a longitudinal wave</link>, and <link resource="Translong.swf">particles being disturbed by transverse and longitudinal waves</link>.</para><figure id="fig1a">
+			<title>Transverse and Longitudinal Waves</title>
+			<media id="id16758198" alt="">
+                          <image src="../../media/wavetypes.png" mime-type="image/png"/>
+                          <image for="pdf" src="../../media/wavetypes.eps" mime-type="application/postscript"/>
+                        </media>
+			<caption>In water waves and other <term>transverse waves</term>, the ups and downs are in a different direction from their forward movement. The highs and lows of sound waves and other <term>longitudinal waves</term> are arranged in the "forward" direction.</caption>
+		</figure>
+
+  <section id="s3">
+    <title>Presenting These Concepts in a Classroom</title>
+
+    <para id="p3a">
+Watching movies or animations of different types of waves can help younger students understand the difference between transverse and longitudinal waves. The handouts and worksheets at <link document="m12373" target-id="l3a">Talking about Sound and Music</link> include transverse and longitudinal waves. Here are some classroom demonstrations you can also use.
+    </para>
+
+    <section id="s31">
+        <title>Waves in Students</title>
+        <list id="l31a" list-type="enumerated">
+          <title>Procedure</title>
+          <item>
+You will not need any materials or preparation for this demonstration, except that you will need some room.
+          </item>
+          <item>
+Have most of the students stand in a row at one side of the classroom, facing out into the classroom. Let some of the students stand across the room from the line so that they can see the "waves".
+          </item>
+          <item>
+Starting at one end of the line, have the students do a traditional stadium "wave". If they don't know how, have them all start slightly bent forward with hands on knees. Explain that the student on the end will lift both arms all the way over their heads and then put both down again. Each student should do the same motion as soon as (but not before) they feel the student beside them do it.
+          </item>
+          <item>
+If they do it well, the students watching should see a definite transverse wave travelling down the line of students.
+          </item>
+          <item>
+Starting with the same end student, next have the line make a longitudinal wave.   Have the students start with their arms out straight in front of them. As the wave goes by, each student will swing both arms first toward, and then away, from the next student in line. 
+          </item>
+          <item>
+Let the students take turns being the first in line, being in line, and watching the line from the other side of the room. Let them experiment with different motions: hopping in place, swaying to the left and right, taking a little step down the line and back, doing a kneebend, etc. Which kind of wave does each motion create?
+          </item>
+        </list>
+    </section>
+    <section id="s32">
+       <title>Jumpropes and Slinkies</title>
+         <list id="eip-346"><title>Materials and Preparation</title><item><emphasis>Rope</emphasis> - A jump-rope is ideal, or any rope of similar weight and suppleness</item>
+<item><emphasis>Coil</emphasis> - A Slinky toy works, or any metal or plastic coil with enough length and elasticity to support a visible longitudinal wave</item>
+<item><emphasis>Pole</emphasis> - A broomstick is fine, or a dowel, rod, pipe, or any long, thin, rigid, smooth cylinder.</item>
+<item>You may want to practice with these items before the demonstration, to make certain that you can produce visible traveling waves.</item></list><list id="l32a" list-type="enumerated"><title>Procedure</title><item>
+Load the slinky onto the broomstick and stretch it out a bit. Have two people holding the broomstick horizontally at waist level, as steadily as possible, or secure the ends of the broomstick on desks or chairs. 
+          </item>
+          <item>
+Holding one end of the slinky still, have someone jerk the other end of the slinky forward and back along the broomstick as quickly as possible. This should create a longitudinal wave that travels down the slinky to the other end. (If the other end is being held very tightly, but without interfering with its coils, you may even be able to see the wave reflect and travel back up the slinky.)
+          </item>
+          <item>
+Secure or have someone hold one end of the jumprope very still at waist height. Stretch the jumprope out taut, horizontally.
+          </item>
+          <item>
+Have the person at the other end of the jumprope suddenly jerk the end of the rope up and down again. You should see a transverse wave travel to the other end of the rope. If the other end is secured very tightly, you may even be able to see a reflection of the wave travel back to the other end.
+          </item>
+          <item>
+With both of these setups, you can experiment with sending single pulses, multiple waves, or even try to set up <link document="m">standing waves</link>. In fact, a jumprope is usually used to make a sort of three-dimensional standing wave of the <link document="m11118" target-id="p1c">fundamental</link> of the rope length. Try making the standing wave in two dimensions, going just up-and-down (without the forward and back part of the motion). With a good rope and some practice, you may be able to get a second <link document="m11118">harmonic</link> standing wave, with one side of the rope going up while the other side goes down, and a node in the middle of the rope. 
+          </item>
+         </list>
+    </section>
+  </section>
+
+  </content>
+  
+</document>
