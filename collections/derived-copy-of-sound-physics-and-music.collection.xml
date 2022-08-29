@@ -1,74 +1,41 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="Catherine Schmidt-Jones">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col12224</md:content-id>
-  <md:title>Derived copy of Sound, Physics and Music</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  <md:uuid>400b92c7-d220-489b-979a-5402ef279a38</md:uuid>
-<md:slug>derived-copy-of-sound-physics-and-music</md:slug>
-</metadata>
-
+    <md:content-id>col12224</md:content-id>
+    <md:title>Derived copy of Sound, Physics and Music</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>400b92c7-d220-489b-979a-5402ef279a38</md:uuid>
+    <md:slug>derived-copy-of-sound-physics-and-music</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Basic Concepts</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m12373">
-        <col:featured-links>
-          
+    <col:subcollection>
+      <md:title>Basic Concepts</md:title>
+      <col:content>
+        <col:module document="m12373">
+          <col:featured-links>
             <cnxml:link-group type="example">
               <cnxml:link url="http://cnx.rice.edu/content/m12365/latest/">Sound and Ears</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12372/latest/">Amplitude and Dynamics</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11063/latest/">Sound and Music</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m12378">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m12378">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m12373/latest/">Talking about Sound</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12372/latest/">Amplitude and Dynamics</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12365/latest/">Sound and Ears</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m11060">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m11060">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m10867/latest/">Interval</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10862/latest/">Octaves</cnxml:link>
@@ -79,96 +46,52 @@
               <cnxml:link url="http://cnx.rice.edu/content/m11808/latest/">Musical Intervals, Frequency, and Ratio</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11639/latest/">Tuning Systems</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m12372">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m12372">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12365/latest/">Sound and Ears</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11063/latest/">Sound and Music</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Presenting Concepts to Younger Students</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m11063">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
-              <cnxml:link url="http://cnx.rice.edu/content/m10943/latest/">Pitch</cnxml:link>
-              <cnxml:link url="http://cnx.rice.edu/content/m11059/latest/">Color</cnxml:link>
-              <cnxml:link url="http://cnx.rice.edu/content/m12372/latest/">Amplitude and Dynamics</cnxml:link>
-              <cnxml:link url="http://cnx.rice.edu/content/m12378/latest/">Transverse and Longitudinal Waves</cnxml:link>
-              <cnxml:link url="http://cnx.rice.edu/content/m12365/latest/">Sound and Ears</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m12365">
-        <col:featured-links>
-          
-            <cnxml:link-group type="supplemental">
-              <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Sound, Physics, and Music</cnxml:link>
-            </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>The Physics and Math of Intervals and Tuning</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m11808">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:subcollection>
+          <md:title>Presenting Concepts to Younger Students</md:title>
+          <col:content>
+            <col:module document="m11063">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
+                  <cnxml:link url="http://cnx.rice.edu/content/m10943/latest/">Pitch</cnxml:link>
+                  <cnxml:link url="http://cnx.rice.edu/content/m11059/latest/">Color</cnxml:link>
+                  <cnxml:link url="http://cnx.rice.edu/content/m12372/latest/">Amplitude and Dynamics</cnxml:link>
+                  <cnxml:link url="http://cnx.rice.edu/content/m12378/latest/">Transverse and Longitudinal Waves</cnxml:link>
+                  <cnxml:link url="http://cnx.rice.edu/content/m12365/latest/">Sound and Ears</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+            <col:module document="m12365">
+              <col:featured-links>
+                <cnxml:link-group type="supplemental">
+                  <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Sound, Physics, and Music</cnxml:link>
+                </cnxml:link-group>
+              </col:featured-links>
+            </col:module>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Physics and Math of Intervals and Tuning</md:title>
+      <col:content>
+        <col:module document="m11808">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11638/latest/">Music and Math</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10862/latest/">Octaves</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.rice.edu/content/m10867/latest/">Interval</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency</cnxml:link>
@@ -176,54 +99,34 @@
               <cnxml:link url="http://cnx.rice.edu/content/m10943/latest/">Pitch</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11118/latest/">Harmonic Series</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m11118">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m11118">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11617/latest/">French Horn</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10862/latest/">Octaves</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11639/latest/">Tuning Systems</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11638/latest/">Music and Math</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Physics and Music</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10867/latest/">Interval</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m11809">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m11809">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11639/latest/">Tuning Systems</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11638/latest/">Music and Math</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10862/latest/">Octaves</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m11639">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m11639">
+          <col:featured-links>
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m10851/latest/">Major Scales</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10856/latest/">Minor Scales</cnxml:link>
@@ -232,81 +135,49 @@
               <cnxml:link url="http://cnx.rice.edu/content/m11421/latest/">Western and Non-Western Music</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11638/latest/">Music and Math</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Physics and Music</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11118/latest/">Harmonic Series</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m10867/latest/">Interval</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
-    
-      
-        
-      <col:subcollection>
-        <md:title>Standing Waves and Instruments</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m12413">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Standing Waves and Instruments</md:title>
+      <col:content>
+        <col:module document="m12413">
+          <col:featured-links>
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12378/latest/">Transverse and Longitudinal Waves</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12373/latest/">Talking about Sound and Music</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m11118/latest/">Harmonic Series</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11063/latest/">Sound and Music</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11896/latest/">Classifying Instruments</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11059/latest/">Timbre</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-    
-      <col:module document="m12589">
-        <col:featured-links>
-          
+          </col:featured-links>
+        </col:module>
+        <col:module document="m12589">
+          <col:featured-links>
             <cnxml:link-group type="prerequisite">
               <cnxml:link url="http://cnx.rice.edu/content/m11118/latest/">Harmonic Series</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12413/latest/">Standing Waves and Musical Instruments</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11060/latest/">Frequency, Wavelength, and Pitch</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m12378/latest/">Transverse and Longitudinal Waves</cnxml:link>
             </cnxml:link-group>
-          
-          
             <cnxml:link-group type="supplemental">
               <cnxml:link url="http://cnx.rice.edu/content/m12364/latest/">Wind Instruments - Some Basics</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11896/latest/">Classifying Instruments</cnxml:link>
               <cnxml:link url="http://cnx.rice.edu/content/m11897/latest/">Orchestral Instruments</cnxml:link>
             </cnxml:link-group>
-          
-        </col:featured-links>
-      </col:module>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
